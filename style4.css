@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+     }
+     .line1{
+         border-right: 2px solid ;
+     width: 700px;
+     height: 900px;
+     margin: 20px auto;
+     padding: 0 7px;
+     font-family: "Open Sans", sans-serif;
+     box-sizing: border-box;
+     margin-right: 300px ;
+     }
+     .line2{
+         border-left: 2px solid ;
+     width: 700px;
+     height: 700px;
+     margin-top: -940px;
+     padding: 0 7px;
+     font-family: "Open Sans", sans-serif;
+     box-sizing: border-box;
+     margin-left: 300px;
+     }
+     .line1 img{
+         width: 600px;
+         height: 500px;
+     }
+     .lorem{
+        margin-left: -400px;
+     }
